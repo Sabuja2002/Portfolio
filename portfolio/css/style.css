@@ -1,0 +1,11 @@
+body{
+    background-color: white;
+}
+.img-fluid{
+    height: 175px;
+    width: 170px;
+    border-radius: 100px;
+}
+a{
+    text-decoration: none;
+}
